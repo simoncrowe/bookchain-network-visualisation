@@ -1,0 +1,11 @@
+certifi==2019.3.9
+chardet==3.0.4
+Cython==0.29.6
+glumpy==1.0.6
+idna==2.8
+numpy==1.16.2
+PyOpenGL==3.1.0
+requests==2.21.0
+scipy==1.2.1
+triangle==20190115.1
+urllib3==1.24.1
