@@ -5,6 +5,7 @@ glumpy==1.0.6
 idna==2.8
 numpy==1.16.2
 PyOpenGL==3.1.0
+redis==3.2.1
 requests==2.21.0
 scipy==1.2.1
 triangle==20190115.1
