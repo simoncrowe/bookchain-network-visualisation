@@ -3,7 +3,7 @@ chardet==3.0.4
 Cython==0.29.6
 glumpy==1.0.6
 idna==2.8
-numpy==1.16.2
+numpy==1.22.0
 PyOpenGL==3.1.0
 redis==3.2.1
 requests==2.21.0
